@@ -1,0 +1,79 @@
+
+:root {
+  /* COULEURS DE BASE (Palette) */
+  --forge-orange:     #D35400; /* Rouille / Feu */
+  --forge-orange-light:#E67E22;
+  --patriote-green:   #27AE60; /* Vert Forêt / Succès */
+  --steel-grey:       #7F8C8D; /* Acier */
+  --charcoal-black:   #121212; /* Fond très sombre */
+  --off-white:        #ECF0F1; /* Parchemin très clair */
+
+  /* OVERRIDES BOOTSTRAP (Mode Clair - Par défaut) */
+  --bs-primary:       var(--forge-orange);
+  --bs-primary-rgb:   211, 84, 0;
+
+  --bs-secondary:     var(--steel-grey);
+  --bs-success:       var(--patriote-green);
+
+  --bs-body-bg:       var(--off-white);
+  --bs-body-color:    #2c3e50; /* Texte foncé sur fond clair */
+
+  /* Liens */
+  --bs-link-color:    var(--forge-orange);
+  --bs-link-hover-color: var(--forge-orange-light);
+}
+
+/* MODE SOMBRE (Le mode par défaut pour les devs) */
+[data-bs-theme="dark"] {
+  /* Fond Charbon Profond (Pas noir pur, c'est mieux pour les yeux) */
+  --bs-body-bg:       var(--charcoal-black);
+  --bs-body-color:    #bdc3c7; /* Texte gris clair */
+
+  /* Les cartes et menus un peu plus clairs que le fond */
+  --bs-tertiary-bg:   #1E1E1E;
+  --bs-secondary-bg:  #252525;
+
+  /* L'orange ressort très bien sur le noir */
+  --bs-primary:       var(--forge-orange-light);
+
+  /* Bordures subtiles style "Métal" */
+  --bs-border-color:  #333333;
+
+  /* Code blocks (Terminal style) */
+  pre, code {
+    background-color: #0a0a0a;
+    color: #2ecc71; /* Vert terminal pour le code */
+    border: 1px solid #333;
+    border-radius: 4px;
+  }
+}
+
+/* TYPOGRAPHIE ET LOGO */
+
+/* Si vous voulez une font un peu "Industrielle" pour les titres */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+/* Petite touche pour la navbar */
+.navbar-brand {
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--forge-orange) !important;
+}
+
+/* Boutons style "Action" */
+.btn-primary {
+  background-color: var(--forge-orange);
+  border-color: var(--forge-orange);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.btn-primary:hover {
+  background-color: #A04000; /* Plus sombre au survol */
+  border-color: #A04000;
+}
