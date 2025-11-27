@@ -5,17 +5,18 @@
   [fr.params]
     languageISO = "FR"
     languageTag = "fr-CA"
-    footer = 'footer'
+    footer = ''
     alertText = ''
 
 [en]
   languageName = "English"
   contentDir = "content/en"
+  disabled = true
   weight = 15
   [en.params]
     languageISO = "EN"
     languageTag = "en-US"
-    footer = 'footer'
+    footer = ''
     alertText = ''
 
 
