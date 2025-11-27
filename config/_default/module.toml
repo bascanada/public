@@ -9,8 +9,15 @@
 
 ## content
 [[mounts]]
-  source = "content"
+  source = "content/en"
   target = "content"
+  lang = "en"
+
+[[mounts]]
+  source = "content/fr"
+  target = "content"
+  lang = "fr"
+
 
 ## data
 [[mounts]]
