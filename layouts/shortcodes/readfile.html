@@ -1,0 +1,7 @@
+{{- $file := .Get 0 -}}
+{{- $res := resources.GetRemote $file -}}
+{{- if $res -}}
+{{- $res.Content | markdownify -}}
+{{- else -}}
+{{- errorf "Remote file not found: %s" $file -}}
+{{- end -}}
