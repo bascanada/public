@@ -29,6 +29,20 @@
   url = "/en/tutorial/lorem/"
 
 [[main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "#"
+  weight = 5
+
+[[main]]
+  parent = "projects"
+  name = "Alacod"
+  url = "https://alacod.bascanada.org"
+  weight = 10
+  [main.params]
+    newtab = true
+
+[[main]]
   name = "Legal"
   url = "/en/legal/"
 # url = "/docs/1.0/prologue/introduction/"
@@ -38,6 +52,18 @@
   name = "Blog"
   url = "/en/blog/"
   weight = 30
+
+[[legal]]
+  name = "Privacy Policy"
+  weight = 10
+  identifier = "privacy"
+  url = "/en/privacy/"
+
+[[legal]]
+  name = "Status"
+  weight = 20
+  identifier = "status"
+  url = "/en/legal/status/"
 
 # [[social]]
 #   name = "Twitter"

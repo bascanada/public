@@ -12,8 +12,34 @@
 
 
 [[main]]
-  name = "Legal"
-  url = "/fr/legal"
+  identifier = "projects"
+  name = "Projets"
+  url = "#"
+  weight = 5
+
+[[main]]
+  parent = "projects"
+  name = "Alacod"
+  url = "https://alacod.bascanada.org"
+  weight = 10
+  [main.params]
+    newtab = true
+
+[[main]]
+  parent = "projects"
+  name = "Logviewer"
+  url = "/fr/logviewer"
+  weight = 20
+
+[[main]]
+  parent = "projects"
+  name = "Allumette"
+  url = "/fr/allumette"
+  weight = 30
+
+[[main]]
+  name = "Gouvernance"
+  url = "/fr/gouvernance"
   weight = 10
 
 [[main]]
@@ -21,6 +47,19 @@
   url = "/fr/blog/"
   weight = 20
 
+
+[[gouvernance]]
+  name = "Politique de confidentialité"
+  weight = 10
+  identifier = "gouvernance"
+  url = "/fr/privacy/"
+
+
+[[gouvernance]]
+  name = "Statut"
+  weight = 20
+  identifier = "gouvernance"
+  url = "/fr/legal/status/"
 
 
 [[social]]
