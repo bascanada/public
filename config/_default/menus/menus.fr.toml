@@ -25,6 +25,14 @@
   weight = 30
 
 [[main]]
+  parent = "projects"
+  name = "Kessequidit"
+  url = "https://kessequidit.bascanada.org/"
+  weight = 40
+  [main.params]
+    newtab = true
+
+[[main]]
   name = "Gouvernance"
   url = "/fr/gouvernance"
   weight = 10
