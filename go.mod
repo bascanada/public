@@ -1,1 +1,1 @@
-module github.com/bascanada/public
+module github.com/estran-studio/public

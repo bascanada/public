@@ -1,29 +1,25 @@
 ---
-title: "Gouvernance & Légal"
-description: "Le cadre légal, les statuts et les règlements de l'organisme."
+title: "Le Studio"
+description: "L'identité, la vision et l'engagement d'Estran Studio Inc."
 summary: ""
 date: 2023-09-07T16:06:50+02:00
-lastmod: 2023-09-07T16:06:50+02:00
+lastmod: 2026-05-07T16:06:50+02:00
 draft: false
 weight: 1
 toc: true
-seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
 ---
 
-Bienvenue dans le registre officiel des Forges Libres du Bas Canada.
+Estran Studio Inc. est un atelier d'ingénierie logicielle basé au Québec, spécialisé dans les systèmes haute performance et l'informatique créative.
 
-Contrairement aux organisations traditionnelles qui gardent leurs livres de minutes dans un classeur poussiéreux, nous avons choisi la transparence radicale.
+### Notre Vision
 
-### Philosophie de gestion
+Nous bâtissons des outils numériques qui respectent l'autonomie de l'utilisateur. Pour nous, la technologie doit être un levier de liberté, pas un outil de capture.
 
-Transparence : Nos statuts, nos règlements et nos décisions (procès-verbaux) sont publics.
+### Transparence et Intégrité
 
-Intégrité : Nous utilisons la cryptographie (signatures GPG) pour assurer l'authenticité de nos registres.
+Bien que nous soyons une entreprise privée, nous maintenons un engagement fort envers la transparence technique. Nous utilisons des standards ouverts et favorisons des architectures auditables pour garantir la pérennité des solutions que nous livrons.
 
-Participation : Bien que la direction soit assurée par les membres fondateurs, la communauté est invitée à auditer notre fonctionnement.
+### Navigation
 
-Ce dépôt Git constitue le « Livre de la compagnie » au sens de la Loi sur la publicité légale des entreprises.
+* [Manifeste](/fr/gouvernance/manifeste) : Nos valeurs et notre mission.
+* [Politique de confidentialité](/fr/privacy) : Protection des données.

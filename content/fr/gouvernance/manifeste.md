@@ -1,45 +1,30 @@
 ---
-title: "Manifeste Technique"
-description: "Nos principes directeurs sur le logiciel libre et l'infrastructure."
-summary: ""
-date: 2023-09-07T16:06:50+02:00
-lastmod: 2023-09-07T16:06:50+02:00
+title: "Manifeste"
+description: "Les principes fondamentaux d'Estran Studio Inc."
+date: 2026-05-07T16:00:00+02:00
+lastmod: 2026-05-07T16:00:00+02:00
 draft: false
-weight: 30
 toc: true
-seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
 ---
 
+Ce manifeste définit les valeurs qui guident chaque projet chez Estran Studio.
 
+## I. Souveraineté
 
-## Manifeste des Forges
+Nous croyons que l'utilisateur doit être le seul maître de ses outils et de ses données. Nous refusons les modèles qui emprisonnent et les boîtes noires technologiques. Bâtir avec Estran, c'est choisir l'autonomie.
 
-### 1. Souveraineté par la possession
+## II. Performance par la Justesse
 
-Nous croyons que la véritable souveraineté numérique réside dans la possession des données et du code source, plus que dans la possession des câbles.
+La performance n'est pas une option, c'est un respect envers l'utilisateur et le matériel. Nous ne bâtissons pas de logiciels surchargés. Chaque ligne de code doit justifier son existence par son utilité et son efficacité.
 
-Nous privilégions les formats de fichiers ouverts et standardisés.
+## III. Artisanat Numérique
 
-Nous refusons tout outil créant un enfermement propriétaire (Vendor Lock-in) indéfaisable.
+Nous traitons le logiciel comme une pièce d'artisanat de précision. Nous privilégions la robustesse et la clarté à la complexité inutile. Nous construisons pour la pérennité.
 
-### 2. Pragmatisme Infrastructurel (Doctrine du Cordon Sanitaire)
+## IV. Résilience
 
-Les Forges utilisent des plateformes populaires (GitHub, YouTube, Discord) pour maximiser la diffusion de notre mission éducative. Cependant, nous appliquons une politique de stricte portabilité :
+Inspirés par l'estran — cette zone entre terre et mer en perpétuel mouvement — nous cultivons une approche adaptable et résiliente. Nous opérons avec agilité dans des environnements techniques exigeants.
 
-Tout code hébergé sur GitHub doit être miroité régulièrement.
+## V. Éthique Technique
 
-Toute documentation doit vivre dans le dépôt Git, et non dans des systèmes propriétaires (Wikis fermés, Google Docs).
-
-L'audience est construite sur ces plateformes, mais la communauté réside sur nos propres canaux.
-
-### 3. Identité et Langue
-
-Nous sommes une organisation fièrement ancrée dans l'histoire et le territoire du Québec.
-
-Le code source est rédigé en anglais pour être universel.
-
-L'âme du projet, la documentation, l'enseignement et la gouvernance sont en français.
+La technologie doit décupler les capacités humaines, pas les aliéner. Nos solutions sont conçues pour redonner du pouvoir à l'individu tout en protégeant sa dignité numérique.

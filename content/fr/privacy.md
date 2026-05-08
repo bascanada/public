@@ -16,13 +16,13 @@ seo:
 
 ## 1. Notre philosophie (Moins c'est mieux)
 
-Aux Forges Libres du Bas Canada, nous croyons que la vie privée est un droit fondamental. Notre modèle d'affaires ne repose pas sur la vente de vos données. En fait, moins nous en avons, mieux nous nous portons.
+Chez Estran Studio Inc., nous croyons que la vie privée est un droit fondamental. Notre modèle d'affaires ne repose pas sur la vente de vos données. En fait, moins nous en avons, mieux nous nous portons.
 
 Conformément à la Loi sur la protection des renseignements personnels dans le secteur privé (Loi 25) du Québec, voici ce que vous devez savoir.
 
 ## 2. Données collectées automatiquement
 
-Lorsque vous visitez bascanada.org, nous collectons uniquement les données techniques strictement nécessaires au fonctionnement et à la sécurité du site.
+Lorsque vous visitez estran.studio, nous collectons uniquement les données techniques strictement nécessaires au fonctionnement et à la sécurité du site.
 
 Journaux serveurs (Logs)
 
@@ -62,10 +62,10 @@ Nous ne vendons, n'échangeons et ne transférons jamais vos informations person
 
 ## 5. Responsable de la protection des renseignements personnels
 
-Pour toute question concernant vos données ou pour exercer vos droits (accès, rectification, retrait), vous pouvez contacter le responsable officiel désigné par le Conseil d'Administration :
+Pour toute question concernant vos données ou pour exercer vos droits (accès, rectification, retrait), vous pouvez contacter le responsable officiel :
 
-Le Secrétaire
-Les Forges Libres du Bas Canada
-Courriel : bascanada1841@gmail.com
+Responsable de la Vie Privée
+Estran Studio Inc.
+Courriel : legal@estran.studio
 
 Cette politique est versionnée. Vous pouvez consulter l'historique des modifications sur notre dépôt GitHub.

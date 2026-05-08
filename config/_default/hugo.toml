@@ -1,5 +1,5 @@
-title = "Forges Libres du Bas Canada"
-baseurl = "http://localhost/"
+title = "Estran Studio"
+baseurl = "https://estran.studio"
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]
@@ -14,7 +14,7 @@ summarylength = 20 # 70 (default)
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
 
-copyRight = "Copyright (c) 2025 Les Forges Libres du Bas Canada"
+copyRight = "Copyright (c) 2026 Estran Studio Inc."
 
 [build.buildStats]
   enable = true
@@ -44,7 +44,7 @@ copyRight = "Copyright (c) 2025 Les Forges Libres du Bas Canada"
   priority = 0.5
 
 [caches]
-  [caches.getjson]
+  [caches.images]
     dir = ":cacheDir/:project"
     maxAge = -1 # "30m"
 

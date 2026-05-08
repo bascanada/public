@@ -1,39 +1,12 @@
 [[main]]
-  identifier = "projects"
-  name = "Projets"
-  url = "#"
+  identifier = "lab"
+  name = "Le Labo"
+  url = "/fr/lab"
   weight = 5
 
-[[main]]
-  parent = "projects"
-  name = "Alacod"
-  url = "https://alacod.bascanada.org"
-  weight = 10
-  [main.params]
-    newtab = true
 
 [[main]]
-  parent = "projects"
-  name = "Logviewer"
-  url = "/fr/logviewer"
-  weight = 20
-
-[[main]]
-  parent = "projects"
-  name = "Allumette"
-  url = "/fr/allumette"
-  weight = 30
-
-[[main]]
-  parent = "projects"
-  name = "Kessequidit"
-  url = "https://kessequidit.bascanada.org/"
-  weight = 40
-  [main.params]
-    newtab = true
-
-[[main]]
-  name = "Gouvernance"
+  name = "Le Studio"
   url = "/fr/gouvernance"
   weight = 10
 
@@ -46,7 +19,7 @@
 [[social]]
   name = "GitHub"
   pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-github\"><path d=\"M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22\"></path></svg>"
-  url = "https://github.com/bascanada"
+  url = "https://github.com/estran-studio"
   post = "v0.1.0"
   weight = 10
 
@@ -59,7 +32,7 @@
 [[social]]
   name = "YouTube"
   pre = "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"icon icon-tabler icons-tabler-outline icon-tabler-brand-youtube\"><path stroke=\"none\" d=\"M0 0h24v24H0z\" fill=\"none\"/><path d=\"M2 8a4 4 0 0 1 4 -4h12a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-12a4 4 0 0 1 -4 -4v-8z\" /><path d=\"M10 9l5 3l-5 3z\" /></svg>"
-  url = "https://youtube.com/@BasCanada"
+  url = "https://youtube.com/@EstranStudio"
   weight = 30
 
 
@@ -70,7 +43,7 @@
 
 [[footer]]
   name = "Code de conduite"
-  url = "https://github.com/bascanada/.github/blob/main/CODE_OF_CONDUCT.md" # Lien vers votre repo GitHub
+  url = "https://github.com/estran-studio/.github/blob/main/CODE_OF_CONDUCT.md" # Lien vers votre repo GitHub
   weight = 20
 
 [[footer]]
@@ -80,5 +53,5 @@
 
 [[footer]]
   name = "Nous joindre"
-  url = "mailto:bascanada1841@gmail.com"
+  url = "mailto:studio@estran.studio"
   weight = 40
